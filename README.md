@@ -21,4 +21,8 @@ A Python OOP-based lucky number guessing game where players try to guess the CPU
 1. **Create Virtual Environment**:
    ```bash
    python -m venv lucky_number_env
+<<<<<<< HEAD
    lucky_number_env\Scripts\activate
+=======
+   lucky_number_env\Scripts\activate
+>>>>>>> 5fbdba4694a95b5e8242a188fb81204562867645
